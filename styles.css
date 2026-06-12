@@ -81,7 +81,7 @@ main.container{padding:2rem 1rem}
 .hero-sub{margin:0.25rem 0;color:var(--muted)}
 .hero-desc{max-width:60ch}
 .btn{display:inline-block;background:var(--color-accent);color:var(--bg);border:none;padding:0.6rem 1rem;border-radius:6px;text-decoration:none;font-weight:600}
-.hero-ctas{display:flex;1.25rem;margin-top:0.8rem;gap:1.25rem;}
+.hero-ctas{display:flex;gap:1.25rem;margin-top:0.8rem;}
 .btn:focus{outline:3px solid var(--color-primary);outline-offset:2px}
 .btn-ghost{background:transparent;border:1px solid var(--toggle-border);color:var(--text);font-weight:400}
 
